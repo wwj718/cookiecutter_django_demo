@@ -1,3 +1,4 @@
+```
 project_name [Project Name]: cookiecutter_django_demo
 project_slug [cookiecutter_django_demo]:
 author_name [Daniel Roy Greenfeld]: wwj718
@@ -38,3 +39,4 @@ Select open_source_license:
 4 - Apache Software License 2.0
 5 - Not open source
 Choose from 1, 2, 3, 4, 5 [1]: 1
+```
